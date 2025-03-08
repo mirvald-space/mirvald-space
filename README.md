@@ -1,29 +1,26 @@
-# 👋 Hi, I'm Vadym
+# 👋 Hi, I'm Vadym.
 
-Product UI/UX designer with 4+ years of experience, passionate about minimalism and design systems. I combine design expertise with development skills for a comprehensive approach to projects.
+## 🚀 Full-stack Product Designer & Python Developer  
 
-## 🔧 Skills & Tools
-- Product Design (UI/UX)
-- Front-end: HTML, CSS
-- Python Development
-- Figma, FigJam
-- Chatbot Development (Telegram)
-- API Integration
+I develop automated solutions to optimize business processes.
 
-## 💻 Tech Stack
-HTML | CSS | Python (Aiohttp, FastAPI, Flask) | PostgreSQL | MongoDB | Git | Docker | API | Linux/UNIX
+### 💻 Core technologies:
+- Python (Aiogram, Requests, BeautifulSoup, N8N)
+- Integrations with AI (ChatGPT Claude, Grok)
+- n8n to build workflows
+- UX/UI design (Figma)
 
-## 🌟 Why Work With Me?
-1. Unique blend of design expertise and coding skills
-2. Full-stack capabilities: from UI/UX to back-end development
-3. Quick learner of new technologies
-4. Creative problem-solver with a keen eye for design
-5. Deep understanding of business processes
-6. Committed to long-term client relationships
+### 🔥 Recent projects:
+- [DockMixAIbot](https://github.com/mirvald-space/-AI_GuideBot) - Telegram bot for accessing multiple AI models (ChatGPT, DALL-E 3, Grok) through a single interface.
+- [PolishDom AI Bot](https://github.com/mirvald-space/polishdom_bot) - Telegram bot for preparing for the Pole Card exam with AI-consultant
 
-## 📫 Get in Touch
-- Email: mirvald.vadim@icloud.com
-- Telegram: @mirvaId
+### 📈 Working with me:
+- You will reduce manual operations by 70-90%
+- Accelerate business processes by 3-5 times
+- Get solutions that integrate seamlessly with your systems
+- Save budget on subscriptions with personalized automation
 
----
-From pixel-perfect designs to functional back-ends, I'm here to bring your ideas to life with both style and functionality.
+### 📫 Contacts:
+- [Email](mirvald.vadim@icloud.com)
+- [Telegram](https://t.me/mirvaId)
+- [Website](https://mirvald.space)
