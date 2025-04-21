@@ -19,8 +19,3 @@ I develop automated solutions to optimize business processes.
 - Accelerate business processes by 3-5 times
 - Get solutions that integrate seamlessly with your systems
 - Save budget on subscriptions with personalized automation
-
-### 📫 Contacts:
-- [Email](mirvald.vadim@icloud.com)
-- [Telegram](https://t.me/mirvaId)
-- [Website](https://mirvald.space)
