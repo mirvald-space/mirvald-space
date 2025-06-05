@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Vadym.
-
 ## 🚀 Full-stack Product Designer & Python Developer  
 
 I develop automated solutions to optimize business processes.
