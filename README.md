@@ -1,15 +1,15 @@
-## 🚀 Full-stack Product Designer & Python Developer  
+## Hi, I'm Vadym — Product Designer & Developer
 
-I develop automated solutions to optimize business processes.
+I help businesses transform ideas into finished products. 6 years of design experience, the last 3 years also doing development and AI automation. I handle projects from concept to launch — complete cycle. Focus on results, minimal bureaucracy.
 
-### 💻 Core technologies:
-- Python (Aiogram, Requests, BeautifulSoup, N8N)
-- Integrations with AI (ChatGPT Claude, Grok)
-- n8n to build workflows
-- UX/UI design (Figma)
+### 💻 Open for new projects and collaborations
 
-### 📈 Working with me:
-- You will reduce manual operations by 70-90%
-- Accelerate business processes by 3-5 times
-- Get solutions that integrate seamlessly with your systems
-- Save budget on subscriptions with personalized automation
+Currently building znaidy.com — my own job search platform.
+More about my work in projects and services sections. Also running a Telegram channel with design and development insights.
+
+
+
+
+ 
+
+ 
