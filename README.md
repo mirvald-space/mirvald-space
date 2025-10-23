@@ -1,15 +1,18 @@
-## Hi, I'm Vadym — Product Designer & Developer
+*Design + Development + Automation*
 
-I help businesses transform ideas into finished products. 6 years of design experience, the last 3 years also doing development and AI automation. I handle projects from concept to launch — complete cycle. Focus on results, minimal bureaucracy.
+I solve business problems from the concept to the finished product. I've been working in design for 6 years, and I've also been working on development and automation for the last 3 years.
 
-### 💻 Open for new projects and collaborations
+*What I do:*
+UI/UX design of web and mobile applications
+Frontend development (React, Next.js )
+Telegram bots with AI integration
+n8n business process automation
+Design systems and technical documentation
 
-Currently building znaidy.com — my own job search platform.
-More about my work in projects and services sections. Also running a Telegram channel with design and development insights.
+*What did you do:*
+10+ design projects
+15+ Telegram bots with AI and automation
+5+ n8n workflows for business processes
+1 Own a product from concept to launch znaidy.com
 
-
-
-
- 
-
- 
+I work quickly, understand the technical side, and the designs are ready for development without any modifications.
